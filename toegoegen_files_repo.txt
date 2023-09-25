@@ -1,1 +1,5 @@
 adding files segment. 22-09-2023
+
+During the tut an html file was updated to include a link to an "about" html file. 25-09-2023
+
+Tweede zogenaamde edit 25-09-2023
